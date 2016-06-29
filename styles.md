@@ -22,30 +22,43 @@ Below is just about everything you’ll need to style in the theme. Check the so
 ###### Heading 6
 
 * * *
+<abbr title="Hyper Text Markup Language">HTML</abbr> and <abbr title="Cascading Style Sheets">CSS</abbr> are our tools for styling. 
 
-Lorem ipsum dolor sit amet, [test link](# "test link") adipiscing elit. **This is strong.** Nullam dignissim convallis est. Quisque aliquam. _This is emphasized._ Donec faucibus. Nunc iaculis suscipit dui. 5<sup>3</sup> = 125\. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. <cite>The New York Times</cite> (That’s a citation). <span style="text-decoration:underline;">Underline.</span> Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+Use square braces and parentheses to form links in markdown:  [test link](# "test link").
+Put words into a pair of two asterisks to make them appear bold: **This is strong.** N
+To make words look italicized, put them between a pair of underscores will do that: _This is emphasized._ 
+Making super scripts and sub scripts is also easy. Use the sup and sub tags around the characters you wish to super or sub script: 5<sup>3</sup> = 125\. Water is H<sub>2</sub>O. 
+Citations are just as easy with use of the cite tag. <cite>The New York Times</cite> (That’s a citation).
 
-<abbr title="Hyper Text Markup Language">HTML</abbr> and <abbr title="Cascading Style Sheets">CSS</abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. To copy a file type `COPY undefined`. <del>Dinner’s at 5:00.</del> <ins>Let’s make that 7.</ins> This <span style="text-decoration:line-through;">text</span> has been struck.
+By using text decoration styles you do things like:
+Underlining text: <span style="text-decoration:underline;">Underline.</span> 
+Stricking through text: This <span style="text-decoration:line-through;">text</span> has been struck.
+
+Struck out text can also be done via the del and ins html tags. i.e. <del>Dinner’s at 5:00.</del> <ins>Let’s make that 7.</ins> 
+
+To copy a file type `COPY undefined`. 
 
 * * *
 
 ## Media
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+This is an example of how various forms of media will appear on this website
 
 ### Big Image
 
-![Test Image](https://unsplash.imgix.net/photo-1429371527702-1bfdc0eeea7d)
+This is how large images will appear on this website.  
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+![Test Image](http://www.ddl.kr/data/file/gallery/3554530584_TyJ2waAV_a0e582c316335ac1b8701f188ff974ab4a23583c.jpg)
+
+A wonderful photo of green grapes.  
 
 ### Small Image
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+Here is an example of how small images will appear on this website.  
 
-![Small Test Image](https://distilleryimage8-a.akamaihd.net/2fbc48f2da2911e29e7122000aaa0fd8_7.jpg)
+![Small Test Image](https://c4.staticflickr.com/7/6126/5996465579_df36dbdd23_n.jpg)
 
-Labore et dolore.
+Creative Commons small image.  
 
 * * *
 
