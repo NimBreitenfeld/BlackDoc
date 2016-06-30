@@ -24,19 +24,18 @@ Below is just about everything you’ll need to style in the theme. Check the so
 * * *
 <abbr title="Hyper Text Markup Language">HTML</abbr> and <abbr title="Cascading Style Sheets">CSS</abbr> are our tools for styling. 
 
-Use square braces and parentheses to form links in markdown:  [test link](# "test link").
-Put words into a pair of two asterisks to make them appear bold: **This is strong.** N
-To make words look italicized, put them between a pair of underscores will do that: _This is emphasized._ 
-Making super scripts and sub scripts is also easy. Use the sup and sub tags around the characters you wish to super or sub script: 5<sup>3</sup> = 125\. Water is H<sub>2</sub>O. 
-Citations are just as easy with use of the cite tag. <cite>The New York Times</cite> (That’s a citation).
+Use square braces and parentheses to form links in markdown:  [test link](# "test link").  
+Put words into a pair of two asterisks to make them appear bold: **This is strong.**  
+To make words look italicized, put them between a pair of underscores will do that: _This is emphasized._  
+Making super scripts and sub scripts is also easy. Use the sup and sub tags around the characters you wish to super or sub script: 5<sup>3</sup> = 125\. Water is H<sub>2</sub>O.  
+Citations are just as easy with use of the cite tag. <cite>The New York Times</cite> (That’s a citation).  
 
-By using text decoration styles you do things like:
-Underlining text: <span style="text-decoration:underline;">Underline.</span> 
-Stricking through text: This <span style="text-decoration:line-through;">text</span> has been struck.
+By using text decoration styles you do things like:  
+Underlining text: <span style="text-decoration:underline;">Underline.</span>  
+Stricking through text: This <span style="text-decoration:line-through;">text</span> has been struck.  
+Struck out text can also be done via the del and ins html tags. i.e. <del>Dinner’s at 5:00.</del> <ins>Let’s make that 7.</ins>  
 
-Struck out text can also be done via the del and ins html tags. i.e. <del>Dinner’s at 5:00.</del> <ins>Let’s make that 7.</ins> 
-
-To copy a file type `COPY undefined`. 
+To copy a file type `COPY undefined`.  
 
 * * *
 
