@@ -37,13 +37,13 @@ body {
  /* color: #848482;
   background-color: #000000;
   */
-  color: #e6ffff;
+  color: whitesmoke;
   background-color: #000066;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'EB Garamond', serif;
-  color: #ccffcc;
+  color: #b3ffb3;
 }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -55,7 +55,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 }
 
 a {
-  color: #ffcccc;
+  color: #cc99ff;
   transition: color ease 0.3s;
 }
 
