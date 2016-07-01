@@ -37,7 +37,7 @@ body {
  /* color: #848482;
   background-color: #000000;
   */
-  color: #f2f2f2;
+  color: #d9d9d9;
   background-color: #001a4d;
 }
 
@@ -80,7 +80,7 @@ a:hover {
 }
 
 strong, b {
-  color: #848471;
+  color: #bfbfbf;
 }
 /* Code */
 
@@ -106,7 +106,7 @@ hr {
 }
 
 blockquote {
-  color: #666;
+  color: #66ccff;
   border-left: .25rem solid #333;
 }
 
