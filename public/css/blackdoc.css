@@ -179,8 +179,8 @@ tbody tr:nth-child(odd) th {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
-  background-color: #000;
+  color: #d9d9d9;
+  background-color: #00004d;
   overflow: auto;
 }
 @media (min-width: 48em) {
@@ -196,12 +196,12 @@ tbody tr:nth-child(odd) th {
 
 /* Sidebar links */
 .sidebar a {
-  color: #caad00;
+  color: #cc99ff;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #caad00;
+  color: #cc99ff;
   margin-top: 0;
   font-family: 'Noto Serif', serif;
   font-size: 2.25rem;
@@ -277,7 +277,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #caad00;
+  color: #cc99ff;
 }
 
 /*
