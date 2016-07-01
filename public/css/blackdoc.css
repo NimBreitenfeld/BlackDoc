@@ -43,7 +43,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'EB Garamond', serif;
-  color: #b3ffb3;
+  color: #40bf80;
 }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -55,12 +55,12 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 }
 
 a {
-  color: #cc99ff;
+  color:  #6ee3f7;
   transition: color ease 0.3s;
 }
 
 a:hover {
-  color: #cc0000;
+  color: #cc9efa;
 }
 
 .btn {
@@ -85,13 +85,13 @@ strong, b {
 /* Code */
 
 code {
-  color: #993030;
+  color: #c23d3d;
   white-space: pre-wrap;
-  background-color: #222;
+  background-color: #373e68;
 }
 
 pre {
-  background-color: #222;
+  background-color: #373e68;
 }
 
 pre { white-space: pre; overflow: auto !important; }
@@ -106,7 +106,7 @@ hr {
 }
 
 blockquote {
-  color: #66ccff;
+  color: #9fb9c6;
   border-left: .25rem solid #333;
 }
 
@@ -118,7 +118,7 @@ th {
 
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: #222;
+  background-color: #373e68;
 }
 
 /* Pagination items can be `span`s or `a`s */
@@ -151,7 +151,7 @@ tbody tr:nth-child(odd) th {
 
 /* Gist */
 .gist-data {
-  background-color: #222 !important;
+  background-color: #373e68 !important;
   border-bottom: 1px solid #333 !important;;
 }
 .gist .markdown-body {
@@ -167,7 +167,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .gist-meta {
-  background-color: #222 !important;
+  background-color: #373e68 !important;
 }
 /*
  * Sidebar
@@ -196,7 +196,7 @@ tbody tr:nth-child(odd) th {
 
 /* Sidebar links */
 .sidebar a {
-  color: #cc99ff;
+  color: #67e8fe;
 }
 
 /* About section */
@@ -277,7 +277,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #cc99ff;
+  color: #b3ffb3;
 }
 
 /*
@@ -402,8 +402,8 @@ a.sidebar-nav-item:focus {
   border-radius:10px;
 }
 ::-webkit-scrollbar-thumb {
-  background:#222;
-  border: thin solid #222;
+  background:#373e68;
+  border: thin solid #373e68;
   border-radius:10px;
 }
 ::-webkit-scrollbar-thumb:hover {
