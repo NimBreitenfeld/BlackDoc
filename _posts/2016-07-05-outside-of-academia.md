@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Outside of Academia
+title: Companions
 ---
 
 I recently adopted a cat, a black American shorthair fine feline with some white markings, who I named Noctis ("of night," Latin origins). Noctis had been at the Orange County Animal Services (OCAS) shelter for almost over a month, prior having lived out in the wilds of Chapel Hill as a feral cat. The tip of his left ear is cut off which is how I and OCAS know that he was feral and not a stray. To be frank, there exists far too many feral and stray cats and dogs than all of the shelters combined could take in, yet their numbers continue to increase as they breed freely. In lieu of these two facts the most effective and life saving measure is to Catch, Neuter/Spay and Release (CNR)  Neutered male CNR cats have one of their ears clipped to indicate that they have been neutered, thus reducing capture redundancy. So despite his tough guy apperance and feral year, Noctis is a very chill, vocal cat who loves being petted and has a loud alien purr. I can touch his paws and pawpads, extend his claws, inspect his ears and eyes, boop his nose, catch his tail, pick him up, carry him, and even put my finger in his mouth with no problem. He is not picky with his food or litter, which after reading a number of stories about cats going balistic after a change in food or litter, I am extremely grateful for.
