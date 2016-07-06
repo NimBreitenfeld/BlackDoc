@@ -8,19 +8,19 @@ I recently adopted a cat, a black American shorthair fine feline with some white
 Here is a few photos of them:
 
 Noctis
-![alt text](https://github.com/NimBreitenfeld/NimBreitenfeld.github.io/blob/master/Noctis.png "Noctis")
-![alt text](https://github.com/NimBreitenfeld/NimBreitenfeld.github.io/blob/master/Noctis2.png "Comfy Noctis)
+![Noctis](https://github.com/NimBreitenfeld/NimBreitenfeld.github.io/blob/master/Noctis.png)
+![comfy Noctis](https://github.com/NimBreitenfeld/NimBreitenfeld.github.io/blob/master/Noctis2.png)
 
 Salizar Lucifer Magnus Slytherin
-![alt text](https://github.com/NimBreitenfeld/NimBreitenfeld.github.io/blob/master/Salizar.png "Salizar")
-Salizar and I kicked it off from the start, even when he was just caught. My younger sister and I found him (then I caught him) burrowed in the soil late in the year. Since it was going to be getting much colder soon and we distured him from his warm hideaway, I decided to take care of him over the winter. Come spring he and I were pretty good friends and he was in no rush to leave --I mean he had it all, warmth 24/7, water when he wanted, and an endless food supply. And as they say, the rest is history.Salizar
+![Salizar](https://github.com/NimBreitenfeld/NimBreitenfeld.github.io/blob/master/Salizar.png)
+Salizar and I kicked it off from the start, even when he was just caught. My younger sister and I found him (then I caught him) burrowed in the soil late in the year. Since it was going to be getting much colder soon and we distured him from his warm hideaway, I decided to take care of him over the winter. Come spring he and I were pretty good friends and he was in no rush to leave --I mean he had it all, warmth 24/7, water when he wanted, and an endless food supply. And as they say, the rest is history.
 
 The Hens
-![alt text](https://github.com/NimBreitenfeld/NimBreitenfeld.github.io/blob/master/Hens.png "The Hens")
+![Hens](https://github.com/NimBreitenfeld/NimBreitenfeld.github.io/blob/master/Hens.png)
 Alrighty, (going left to right in order of the photos) in the first photo: the hen barging into our house is Martha, the black one is Houdini, and the other Rhode Island Red next to Houdini is Bertha. In photo two: Houdini the black hen, Martha is upfront (she is the "mother," the hen at the top of the pecking order) followed by Bertha again, and Paprika is the darkest red hen in the back. In photo three Paprika and Bertha are investigating the screen door, and that fluffly black hen butt under the chair belongs to Tequila. Unfortunately, photo three is the only picture I have of Tequila (she is very people wary).  
 
 Kena
-![alt text](https://github.com/NimBreitenfeld/NimBreitenfeld.github.io/blob/master/Keana.png "Kena")
+![Kena](https://github.com/NimBreitenfeld/NimBreitenfeld.github.io/blob/master/Keana.png)
 Okay, so I nearly forgot about the one goldfish I got saved from being flushed down a residence hall toilet because it's owner won it from the fair but hten decided he did not actually want a fish. Long story short, Kena ended up being a jerk that bullied the black moor goldfish my sisters and I got for our mom for her birthday (her favorite) to death and then later died from eating too fast. Karma attack? Oh, I definitely think so. 
 
 I have always had bad luck with fish.  For example, the very first fish I had was a type of guppy, I think, who I bought to study ecosystems on a smaller scale for a science project. Included with the two guppies I also got a few snails so the tank would stay clean longer. They were nice fish, truly peaceful and a bit playful with each other. The problem was the snails. For reasons I have yet to discover, the cleaner snails attacked the fish resulting in the red guppy getting an eye infection and dying and making the yellow guppy sick. One morning my mom went to the kitchen (all fish tanks are kept in the kitchen because of water changes and they can get some indirect sunlight) and saw that the tank was "empty." Investigating the missing yellow guppy, she found out that one of the snails was seriously chowing down on the yellow guppy.  I think my mom ended up saving the yellow guppy's corpse from consumption and flushed it. We threw the snails out into the garden birdbath, but for the longest time the largest cream-yellow snail stayed alive. One day it went missing from the birdbath, but none of us really cared since it was this snail that we saw actively attacking the guppies.  
