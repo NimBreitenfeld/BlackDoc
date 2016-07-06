@@ -8,9 +8,9 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            INLS 161 Website Project
+title:            A Blog Project
 tagline:          Using and editing a Jekyll theme
-description:      "A blog project in the making"
+description:      "From class to real life"
 url:              NimBreitenfeld.github.io
 baseurl:          /
 
