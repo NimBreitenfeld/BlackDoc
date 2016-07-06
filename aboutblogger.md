@@ -9,12 +9,11 @@ Earlier this summer I completed two other courses, INLS 201 (Foundations of Info
 ### Education Summary:  
 
 University of North Carolina at Chapel Hill
-* Studio Arts B.F.A.
 
-  * English Minor 
-  
-  * Information Science Minor (pending, yet to apply)
-  
+* Studio Arts B.F.A.  
+  * English Minor  
+  * Information Science Minor (pending, yet to apply)  
+
 I will be pursuing graduate school for the Fine/Studio Arts Masters degree as well as master printer certification. The end game goal of my formal education is a doctorate degree in fine/studio art.  
 
 ### Skillset:
